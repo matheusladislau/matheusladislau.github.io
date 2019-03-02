@@ -15,6 +15,7 @@ ID
   background-color: black;
   /* height: 110%; */
   width:100%;
+  text-align: right;
 }
 
 
@@ -35,7 +36,7 @@ ID
 #green{
   background-color: green;
   /* height: 3000%; */
-  width:100%;
+  width: auto;
 }
 
 
@@ -46,13 +47,29 @@ ID
 }
 
 .rede{
-  margin-right: 50px;
-
+  margin-right: 10%;
 }
 
-/* a.classname {
-    display:block;
-    height:16px;
-    width:16px;
-    background:url("../img/icon_github.png");
-} */
+.formacao{
+  margin-top: 4%;
+  margin-right: 8%;
+}
+
+.contato{
+  margin-top: 4%;
+  margin-right: 8%;
+}
+
+
+
+.justr{
+  background-color: red;
+}
+
+.justb{
+  background-color: yellow;
+}
+
+.justg{
+  background-color: green;
+}
