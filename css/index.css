@@ -1,0 +1,48 @@
+/* CLASSES */
+.green{
+  background-color: green;
+  height: 30px;
+}
+
+.blue{
+  background-color: blue;
+  height: 30px;
+}
+
+.red{
+  background-color: red;
+  height: 30px;
+}
+
+.yellow{
+  background-color: yellow;
+  height: 30px;
+}
+
+.grey{
+  background-color: grey;
+  height: 30px;
+}
+
+
+.social{
+  margin-top: 5%;
+  margin-left: 5%;
+}
+
+
+
+/* IDS */
+#menu{
+  height: 10vh;
+}
+
+#top{
+  height: 40vh;
+}
+
+
+#teste{
+  background-image: url("../img/icon_github.png");
+  height: 325%;
+}
