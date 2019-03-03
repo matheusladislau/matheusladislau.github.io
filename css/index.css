@@ -41,6 +41,18 @@
   height: 40vh;
 }
 
+#formacao{
+  margin-top: 3%;
+}
+
+#habilidades{
+  margin-top: 3%;
+}
+
+#contato{
+  margin-top: 3%;
+}
+
 
 #teste{
   background-image: url("../img/icon_github.png");
