@@ -53,6 +53,9 @@
   background-color: #ededed;
 }
 
+.linguagem{
+  background-color: #ededed;
+}
 
 
 
@@ -67,6 +70,14 @@
 }
 
 #formacao{
+  margin-top: 3%;
+}
+
+#linguagens{
+  margin-top: 3%;
+}
+
+#ferramentas{
   margin-top: 3%;
 }
 
