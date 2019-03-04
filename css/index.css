@@ -1,46 +1,14 @@
 /* CLASSES */
-.green{
+/* .green{
   background-color: green;
   height: 30px;
-}
+} */
 
 .transparent{
   height: 30px;
 }
 
 .transparent2{
-
-}
-
-
-
-.blue{
-  background-color: blue;
-  height: 30px;
-}
-
-.white{
-  background-color: white;
-}
-
-.red{
-  background-color: red;
-  height: 30px;
-}
-
-.yellow{
-  background-color: yellow;
-  height: 30px;
-}
-
-.black{
-  background-color: black;
-  height: 30px;
-}
-
-.grey{
-  background-color: grey;
-  height: 30px;
 }
 
 .background{
@@ -60,8 +28,6 @@
 .linguagem{
   background-color: #ededed;
 }
-
-
 
 /* IDS */
 #menu{
