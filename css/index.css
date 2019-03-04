@@ -8,6 +8,11 @@
   height: 30px;
 }
 
+.transparent2{
+
+}
+
+
 
 .blue{
   background-color: blue;
@@ -46,7 +51,6 @@
 
 .social{
   margin-top: 5%;
-  margin-left: 5%;
 }
 
 .fundo{
@@ -66,7 +70,7 @@
 }
 
 #top{
-  height: 45vh;
+  height: 60vh;
 }
 
 #formacao{
