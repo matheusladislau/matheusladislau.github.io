@@ -12,8 +12,9 @@
 }
 
 .background{
-  background-image: url("../img/background2.jpg");
+  background-image: url("../img/background.png");
   height: 30px;
+  background-size: 100%;
   background-repeat: no-repeat;
 }
 
