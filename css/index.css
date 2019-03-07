@@ -11,10 +11,13 @@
 .transparent2{
 }
 
+.transparentnew{
+  height: 1%;
+}
+
 .background{
   background-image: url("../img/background3.png");
   background-color: #00a0e3;
-  height: 30px;
   background-size: 100%;
   background-repeat: no-repeat;
 }
@@ -38,7 +41,7 @@
 }
 
 #top{
-  height: 60vh;
+  height: 65vh;
 }
 
 #formacao{
