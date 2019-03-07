@@ -11,12 +11,13 @@
   background-repeat: no-repeat;
 }
 
-.social{
+.social_icon{
   margin-top: 5%;
 }
 
 .section{
   background-color: #ededed;
+  margin-top: 3%;
 }
 
 
@@ -30,17 +31,6 @@
   height: 65vh;
 }
 
-#formacao{
-  margin-top: 3%;
-}
-
-#linguagens{
-  margin-top: 3%;
-}
-
-#ferramentas{
-  margin-top: 3%;
-}
 
 #habilidades{
   margin-top: 3%;
@@ -56,7 +46,32 @@
   height: 325%;
 }
 
-@media (max-width: 600px) {
+/* EXTRA SMALL */
+@media (max-width: 576px) {
+  #foto{
+    height: 40vh;
+  }
+}
+/* SMALL */
+@media (max-width: 768px) {
+  #foto{
+    height: 40vh;
+  }
+}
+/* MEDIUM */
+@media (max-width: 992px) {
+  #foto{
+    height: 40vh;
+  }
+}
+/* LARGE */
+@media (max-width: 1200px) {
+  #foto{
+    height: 40vh;
+  }
+}
+/* EXTRA LARGE */
+@media (max-width: 2000px) {
   #foto{
     height: 40vh;
   }
