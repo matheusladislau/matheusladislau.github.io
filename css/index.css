@@ -12,6 +12,7 @@
 }
 
 .social_icon{
+  height:50px;
   margin-top: 5%;
 }
 
@@ -39,10 +40,16 @@
   margin-top: 3%;
 }
 
-
 #teste{
   background-image: url("../img/icon_github.png");
   height: 325%;
+}
+
+/*  SUPER SMALL*/
+@media (max-width: 480px) {
+  #foto{
+    height: 10vh;
+  }
 }
 
 /* EXTRA SMALL */
@@ -50,43 +57,91 @@
   .background{
     background-image: url("../img/background3.png");
     background-color: #00a0e3;
-    background-size: 95%;
+    background-size: 100% 300%;
     background-repeat: no-repeat;
   }
 
   #foto{
     height: 40vh;
   }
+  #apresentacao{
+    margin-top: 35%;
+  }
   #biografia{
-    margin-top: 15%;
   }
   #top{
-    height: 120vh;
+    height: 130vh;
   }
+}
+
+/* // Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) {
+  .background{
+    background-image: url("../img/background3.png");
+    background-color: #00a0e3;
+    background-size: 400% 100%;
+    background-repeat: no-repeat;
+  }
+  .social_icon{
+    height:50px;
+  }
+}
+
+/* // Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) {
 
 }
-/* SMALL */
-@media (max-width: 768px) {
-  #foto{
-    height: 40vh;
-  }
+
+/* // Large devices (desktops, 992px and up) */
+@media (min-width: 992px) {
 
 }
-/* MEDIUM */
-@media (max-width: 992px) {
-  #foto{
-    height: 40vh;
-  }
-}
-/* LARGE */
-@media (max-width: 1200px) {
-  #foto{
-    height: 10vh;
-  }
-}
-/* EXTRA LARGE */
-@media (max-width: 2000px) {
+
+/* // Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
   #foto{
     height: 30vh;
   }
+
 }
+
+
+
+
+/* SMALL */
+/* @media (max-width: 768px) {
+  #foto{
+    height: 40vh;
+  }
+
+} */
+/* MEDIUM */
+/* @media (max-width: 992px) {
+  #foto{
+    height: 40vh;
+  }
+} */
+/* LARGE */
+/* @media (max-width: 1800px) {
+  #foto{
+    height: 10vh;
+  }
+  #apresentacao{
+    font-size: 100%;
+  }
+  #biografia{
+    font-size: 100%;
+  }
+} */
+/* EXTRA LARGE */
+/* @media (max-width: 2000px) {
+  #foto{
+    height: 25vh;
+  }
+  #apresentacao{
+    font-size: 230%;
+  }
+  #biografia{
+    font-size: 300%;
+  }
+} */
